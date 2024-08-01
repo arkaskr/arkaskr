@@ -1,7 +1,8 @@
+![logo](https://github.com/arkaskr/arkaskr/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Arka</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw3ymXlkPfdBZ3tCvmUaKk7m&ust=1722579827064000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiDho2U04cDFQAAAAAdAAAAABAE](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)">
+<img align="right" alt="coding" width="400" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkaskr&label=Profile%20views&color=0e75b6&style=flat" alt="arkaskr" /> </p>
 
